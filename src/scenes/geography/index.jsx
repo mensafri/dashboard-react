@@ -1,4 +1,4 @@
-import { Box, colors, useTheme } from "@mui/material";
+import { Box, useTheme } from "@mui/material";
 import React from "react";
 import Header from "../../components/Header";
 import GeographyChart from "../../components/GeographyChart";
